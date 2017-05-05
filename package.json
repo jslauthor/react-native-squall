@@ -1,0 +1,27 @@
+{
+  "name": "react-squall",
+  "version": "1.0.0",
+  "description": "Squall Framework, examples, and react native module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jslauthor/Squall.git"
+  },
+  "keywords": [
+    "after",
+    "effects",
+    "react",
+    "react",
+    "native",
+    "animation"
+  ],
+  "author": "JS Leonard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jslauthor/Squall/issues"
+  },
+  "homepage": "https://github.com/jslauthor/Squall#readme"
+}
